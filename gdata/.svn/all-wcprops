@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/PACS/PACS%20Google%20App%20Engine%20Python/gdata
+END
+test_data.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/PACS/PACS%20Google%20App%20Engine%20Python/gdata/test_data.py
+END
+urlfetch.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/PACS/PACS%20Google%20App%20Engine%20Python/gdata/urlfetch.py
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/PACS/PACS%20Google%20App%20Engine%20Python/gdata/client.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/PACS/PACS%20Google%20App%20Engine%20Python/gdata/__init__.py
+END
+service.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/PACS/PACS%20Google%20App%20Engine%20Python/gdata/service.py
+END
+auth.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/PACS/PACS%20Google%20App%20Engine%20Python/gdata/auth.py
+END

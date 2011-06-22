@@ -1,0 +1,15 @@
+<head>
+   <link type="text/css" rel="stylesheet" href="/stylesheets/main.css" />
+</head>
+<html>
+  <body>
+    {% for contact in contacts %}
+	<b>Start Contact</b><br/>
+        First Name: {{ contact.firstname}}<br/>
+	Last Name: {{ contact.lastname}}<br/>
+	Phone Number: {{ contact.phonenumber}}<br/>
+	<b>End Contact</b><br/>
+    {% endfor %}
+  </body>
+</html>
+

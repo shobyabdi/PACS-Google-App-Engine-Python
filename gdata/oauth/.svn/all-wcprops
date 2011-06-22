@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/PACS/PACS%20Google%20App%20Engine%20Python/gdata/oauth
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/PACS/PACS%20Google%20App%20Engine%20Python/gdata/oauth/CHANGES.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/PACS/PACS%20Google%20App%20Engine%20Python/gdata/oauth/__init__.py
+END
+rsa.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/PACS/PACS%20Google%20App%20Engine%20Python/gdata/oauth/rsa.py
+END
